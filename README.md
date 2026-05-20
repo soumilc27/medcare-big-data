@@ -1,4 +1,4 @@
-# MedCore EHR
+## MedCore EHR
 
 An AI-augmented Electronic Health Record (EHR) front-end built with React + Vite.
 
